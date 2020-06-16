@@ -1,0 +1,6 @@
+./idea
+*.ipynb
+/.idea/
+/client/node_modules/
+*.ipyn*
+/server/env/
